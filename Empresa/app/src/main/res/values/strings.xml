@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Empresa</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="varios">Todo</string>
+</resources>

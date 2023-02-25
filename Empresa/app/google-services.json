@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "873231758193",
+    "firebase_url": "https://fran-91e0d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fran-91e0d",
+    "storage_bucket": "fran-91e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873231758193:android:7f1aceb78cb45bae5c7cd0",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873231758193-9n5ja20sdv4hr0ptqu0ebvnojssjvl9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7psOT0aG3_-S95SUJb5iRlZMkDq9RCho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873231758193-9n5ja20sdv4hr0ptqu0ebvnojssjvl9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873231758193:android:0abda25f8837af775c7cd0",
+        "android_client_info": {
+          "package_name": "es.frantoribio.empresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873231758193-9n5ja20sdv4hr0ptqu0ebvnojssjvl9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7psOT0aG3_-S95SUJb5iRlZMkDq9RCho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873231758193-9n5ja20sdv4hr0ptqu0ebvnojssjvl9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
